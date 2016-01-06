@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/MacSecondHD/Documents HD/Trabalho/UNESCO/APPESCA/desenvolvimento/Android/appesca-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Volumes/MacSecondHD/Documents HD/Trabalho/UNESCO/APPESCA/desenvolvimento/Android/appesca-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_7f45ebb56d70abfef8bb7ed9056a9c3ce4402eae.jar" />
+    </item>
+    <item
+        jar="/Volumes/MacSecondHD/Documents HD/Trabalho/UNESCO/APPESCA/desenvolvimento/Android/appesca-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Volumes/MacSecondHD/Documents HD/Trabalho/UNESCO/APPESCA/desenvolvimento/Android/appesca-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_eec50ac1d66005f2a4ad8d52b043b7a091ab4ef6.jar" />
+    </item>
+    <item
+        jar="/Volumes/MacSecondHD/Documents HD/Trabalho/UNESCO/APPESCA/desenvolvimento/Android/appesca-master/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Volumes/MacSecondHD/Documents HD/Trabalho/UNESCO/APPESCA/desenvolvimento/Android/appesca-master/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_aadfcc93799cc77f2d8684cecdae72a268f47797.jar" />
+    </item>
+    <item
+        jar="/Volumes/MacSecondHD/Documents HD/Trabalho/UNESCO/APPESCA/desenvolvimento/Android/appesca-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Volumes/MacSecondHD/Documents HD/Trabalho/UNESCO/APPESCA/desenvolvimento/Android/appesca-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_d5305f53d1fc7b541ea27fc1a49c0dcfefc6b0a0.jar" />
+    </item>
+    <item
+        jar="/Volumes/MacSecondHD/Documents HD/Trabalho/UNESCO/APPESCA/desenvolvimento/Android/appesca-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Volumes/MacSecondHD/Documents HD/Trabalho/UNESCO/APPESCA/desenvolvimento/Android/appesca-master/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_0b905960e470593345410bede0199f9bd8e05940.jar" />
+    </item>
+    <item
+        jar="/Volumes/MacSecondHD/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Volumes/MacSecondHD/Documents HD/Trabalho/UNESCO/APPESCA/desenvolvimento/Android/appesca-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_7424b3b1fbad30798b5df6143454b2682dc06040.jar" />
+    </item>
+
+</items>
